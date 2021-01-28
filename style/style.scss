@@ -79,4 +79,9 @@ $dark-overlay : rgba(0,0,0,0.7);
     .reverse{
         flex-direction: column-reverse;
     }
+    #gallery{
+        img{
+            margin-bottom: 5px;
+        }
+    }
 }

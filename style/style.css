@@ -89,5 +89,8 @@
         -ms-flex-direction: column-reverse;
             flex-direction: column-reverse;
   }
+  #gallery img {
+    margin-bottom: 5px;
+  }
 }
 /*# sourceMappingURL=style.css.map */
